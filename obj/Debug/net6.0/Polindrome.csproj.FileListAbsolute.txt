@@ -1,0 +1,15 @@
+D:\fifi\Task\Polindrome\bin\Debug\net6.0\Polindrome.exe
+D:\fifi\Task\Polindrome\bin\Debug\net6.0\Polindrome.deps.json
+D:\fifi\Task\Polindrome\bin\Debug\net6.0\Polindrome.runtimeconfig.json
+D:\fifi\Task\Polindrome\bin\Debug\net6.0\Polindrome.dll
+D:\fifi\Task\Polindrome\bin\Debug\net6.0\Polindrome.pdb
+D:\fifi\Task\Polindrome\obj\Debug\net6.0\Polindrome.csproj.AssemblyReference.cache
+D:\fifi\Task\Polindrome\obj\Debug\net6.0\Polindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\fifi\Task\Polindrome\obj\Debug\net6.0\Polindrome.AssemblyInfoInputs.cache
+D:\fifi\Task\Polindrome\obj\Debug\net6.0\Polindrome.AssemblyInfo.cs
+D:\fifi\Task\Polindrome\obj\Debug\net6.0\Polindrome.csproj.CoreCompileInputs.cache
+D:\fifi\Task\Polindrome\obj\Debug\net6.0\Polindrome.dll
+D:\fifi\Task\Polindrome\obj\Debug\net6.0\refint\Polindrome.dll
+D:\fifi\Task\Polindrome\obj\Debug\net6.0\Polindrome.pdb
+D:\fifi\Task\Polindrome\obj\Debug\net6.0\Polindrome.genruntimeconfig.cache
+D:\fifi\Task\Polindrome\obj\Debug\net6.0\ref\Polindrome.dll
